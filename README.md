@@ -1,4 +1,4 @@
-# Gestao_de_Alunos
+# Senac_Escola
  <br /><b>Versão 1.0</b> 
  <br/>Conexão com banco de dados MySQL feita através do arquivo conect.cfg.
  <br/>Arquivo de criaçao inicial do Banco de dados no arquivo db.sql
